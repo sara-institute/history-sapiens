@@ -1,0 +1,99 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Sans+Pro:wght@400;600&family=Playfair+Display:ital@1&display=swap');
+
+$font-heading: 'Oswald', sans-serif;
+$font-body: 'Source Sans Pro', sans-serif;
+$font-quote: 'Playfair Display', serif;
+
+// Core Sapiens cover palette
+$sapiens-black:         #1A1A1A;
+$sapiens-burnt-orange:  #C1502E;
+$sapiens-cream:         #F2EDE4;
+$sapiens-rust:          #8B3A22;
+$sapiens-gold-accent:   #D4A24C;
+
+// Reveal.js variable mapping
+$body-bg: $sapiens-cream;
+$body-color: $sapiens-black;
+$link-color: $sapiens-burnt-orange;
+$presentation-heading-color: $sapiens-burnt-orange;
+$presentation-heading-font: $font-heading;
+$presentation-font: $font-body;
+$selection-bg: $sapiens-rust;
+
+/*-- scss:rules --*/
+
+.reveal blockquote {
+  font-family: $font-quote;
+  font-style: italic;
+  color: $sapiens-gold-accent;
+  border-left: 4px solid $sapiens-burnt-orange;
+  padding-left: 1em;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.reveal h3 {
+    color: #D4A24C;
+  }
+
+// ─────────────────────────────────────────────
+// TEXT ALIGNMENT
+// ─────────────────────────────────────────────
+
+.centering {
+    text-align: center;
+}
+
+
+// ─────────────────────────────────────────────
+// SPEAKERS CARDS
+// ─────────────────────────────────────────────
+
+.card {
+  padding: 2rem;
+  border-top: 8px solid #D4A24C;
+  border-radius: 0.5rem; 
+  box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
+  background: $sapiens-black;
+  text-align: center;
+  color: #F2EDE4;
+  font-size: 1.5rem;
+  
+  h3 {
+    color: #D4A24C;
+  }
+
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 $sapiens-rust;
+}
+
+.layout-grid {
+  --gap: 0.85rem;
+  display: grid;
+  gap: var(--gap);
+}
+
+@media (min-width: 800px) {
+  .layout-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.layout-grid > * {
+  flex: 1;
+}
+
+.col {
+  display: grid;
+  gap: var(--gap);
+  align-content: center;
+}
