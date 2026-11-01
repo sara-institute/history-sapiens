@@ -7,8 +7,8 @@ date-format: long
 format: 
     revealjs: 
         theme: [default, sapiens.scss]
-        embed-resources: true
-        logo: images/sara-logo-small.png
+        #embed-resources: true
+        logo: images/logo-sara.png
         slide-number: c/t
 title-slide-attributes: 
   data-background-image: "https://images.unsplash.com/photo-1738503162734-aa236da820cb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -111,7 +111,7 @@ Title slide background image source: [krakograff](https://unsplash.com/photos/a-
 
 - Live on [SARA YouTube Channel](https://www.youtube.com/@SARADataScience)
 
-- For first-generation parents & students.
+- For first-generation learners.
 
 - Essential subjects
 
@@ -127,7 +127,7 @@ Title slide background image source: [krakograff](https://unsplash.com/photos/a-
 <br>
 <br>
 
-> WhatsApp Channel `+840`
+> WhatsApp Channel `+888`
 
 ::: aside
 
@@ -263,6 +263,10 @@ Image source: X [Yuval Noah Harari](https://x.com/harari_yuval)
 
 Matter and energy appear. Beginning of physics. Formation of atoms and molecules. Beginning of chemistry.
 
+::: aside
+1 billion = 1 अरब या 100 करोड़
+:::
+
 ## The Timeline of History
 
 > 4.5 billion years ago
@@ -281,6 +285,10 @@ Emergence of organisms. Beginning of biology.
 
 Last common grandmother of humans and chimpanzees.
 
+::: aside
+1 मिलियन (1 Million) का हिंदी में मतलब दस लाख
+:::
+
 ## The Timeline of History
 
 > 2.5 million years ago
@@ -293,17 +301,21 @@ Humans evolve in Africa. Ue of stone tools.
 
 Humans spread from Africa to Eurasia. Evolution of different human species.
 
-## The Timeline of History
+## The Timeline of History {background-image="https://media.newyorker.com/photos/5909685dc14b3c606c106cd2/master/w_1920,c_limit/110815_r21179_g2048.jpg" background-position="right bottom" background-size="35%"}
 
 > 4,00,000 years ago
 
-Neanderthals evolve in Europe and the Middle East. Regular use of fire.
+**Neanderthals** evolve in Europe and the Middle East. Regular use of fire.
 
 . . .
 
 > 3,00,000
 
-*Homo sapiens* evolves in Africa
+**Homo sapiens** evolves in Africa
+
+::: footer
+Image source: [Sleeping with the enemy, The New Yorker](https://www.newyorker.com/magazine/2011/08/15/sleeping-with-the-enemy)
+:::
 
 ## [Neanderthals "cousin" of Homo sapiens]{.r-fit-text} {background-color=black}
 
@@ -355,11 +367,19 @@ The Agricultural Revolution. Domestication of plants and animals. Permanent sett
 
 First kingdoms, script and money. Polytheistic religions.
 
-## The Timeline of History
+::: aside
+Polytheistic: believing in, relating to, or worshiping more than one god or a collection of multiple deities.
+:::
+
+## The Timeline of History {background-image="https://cdn.britannica.com/63/181963-050-41112548/head-king-Sargon-of-Akkad-Nineveh-Akkadian-c-2300-bce.jpg?w=300" background-size="25%" background-position="right"}
 
 > 4250 years ago
 
 First empire - the Akkadian^[Central part of Iraq] Empire of Sargon^[Ruler of Mesopotamia]
+
+::: footer
+Image source: [Britannica](https://www.britannica.com/place/Akkad)
+:::
 
 ## The Timeline of History {background-image="images/buddha.png" background-position="right" background-size="contain"}
 
@@ -412,13 +432,13 @@ Islam
 
 - The entire planet becomes a single historical arena. 
 
-- The rise of capitalism.
+- The rise of capitalism (पूंजीवाद).
 
 ## The Timeline of History 
 
 > 200 years ago
 
-- The Industrial Revolution.
+- The Industrial Revolution (औद्योगिक क्रांति).
 
 - Family and community are replaced by state and market.
 
@@ -443,6 +463,207 @@ Islam
 ::: {.footer}
 Image source: [Nellie Cole](https://nelliecole.com/2020/05/29/folkdays-cave-art/)
 :::
+
+## {background-color="black"}
+
+<br>
+<br>
+
+::: {.columns}
+
+::: {.column}
+
+A human handprint made about 30,000 years ago, on the wall of the **Chauvet-Pont-d'Arc Cave** in southern France. Somebody tried to say, "I was here!"
+
+:::
+
+::: {.column}
+
+![](https://nelliecole.com/wp-content/uploads/2020/05/1.jpg?w=2000&h=)
+
+:::
+
+:::
+
+
+
+# 1<br>An Animal of No Significance
+
+## An Animal of No Significance
+
+1. **Physics:** Big Bang, around 14 billion years ago, creation of time, space, energy, & matter.
+
+1. **Chemistry:** around 300,000 years later, atoms (matter + energy); molecules (atom + atom).
+
+1. **Biology:** around 4 billion years ago, organisms (molecules + molecules)
+
+1. **History:** around 70,000 years ago, Homo sapiens created cultures.
+
+## The course of history
+
+1. **The Cognitive Revolution**, started around 70,000 years ago.
+
+1. **The Agricultural Revolution**, around 12,000 years ago.
+
+1. **The Scientific Revolution**, around 500 years ago ... on going now.
+
+## An Animal of No Significance
+
+> "in East Africa 2 million years ago"
+
+- "humans loved, played, formed close friendships and competed for status and power - but so did chimpanzees, baboons and elephants. There was nothing special about humans."
+
+- "The most important thing to know about prehistoric humans is that they were insignificant animals with no more impact on their environment than gorillas, fireflies or jellyfish." (p. 4)
+
+
+## An Animal of No Significance {background-image="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJlZXdjeHlzbmU5aWVsNHBma2dpcGthczF3a3JrdHpqdjM0eGtidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NzcHNFKDvS56YmZOQq/giphy.gif" background-size="15%" background-position="85% 85%"}
+
+> Homo (genus) sapiens (species)
+
+- "we are members of a large and particularly noisy family called the great ape. ... The chimpanzees are the closest." (p. 5)
+
+- "there used to be many other species of this genus besides *Homo sapiens*." (p. 6)
+
+## Skeletons in the Closet
+
+- "Homo sapiens is the only human species on earth from last 10,000 years."
+
+- First human evolved in East Africa (Cradle of Humanity) around 2.5 million years algo.
+
+- About 2 million years ago they moved & settled in North Africa, Europe & Asia.
+
+## Skeletons in the Closet
+
+- Neanderthals more adapted to Ice Age western Eurasia.
+
+- The most durable human species Homo erectus survived to 2 million years lived in eastern Asia.
+
+- The earth once walked by at least six species of man.
+
+## The Cost of Thinking
+
+> humans have extraordinarily large brains 1200-1400 cubic centimeters
+
+- Human brain weight about 2-3 per cent of body  weight but it consumes 25 per cent of body's energy ... in other apes only 8 per cent of body energy.
+
+- Spent more time in searching food and muscle atrophied (diverted energy from biceps to neurons)
+
+## The Cost of Thinking
+
+> singular human trait is that we walk upright on two legs
+
+- finely tuned muscles in the palms and fingers ... perform very intricate tasks with their hands.
+
+- backaches and stiff necks ... death in childbirth became a major hazard for human females
+
+- Raising children required constant help from other family members and neighbors ... evolution thus favoured those capable of forming strong social ties.
+
+## A Race of Cooks
+
+> Use of fire as early as 800,000 years ago
+
+- The best thing fire did was cooking.
+
+- Fire stick could burn down an entire forest in a matter of hours.
+
+## Our Brothers' Keepers
+
+> 1,50,000 years ago, East Africa was populated by Sapiens that looked just like us. ... 70,000 years ago, Sapiens started spreading
+
+- The Interbreeding Theory
+
+- The Replacement Theory
+
+# 2<br>The Tree of Knowledge
+
+## The Tree of Knowledge
+
+- 1,50,000 years ago Sapiens lived in East Africa.
+
+- Around 70,000 years ago, we made the extinction of all other human species & started doing very special things:
+
+  - Reached Middle East, Europe & East Asia.
+
+  - Around 45,000 years ago, crossed sea and being first to reach Australia.
+
+## The Tree of Knowledge  {background-image="https://www.britishmuseum.org/sites/default/files/styles/uncropped_small/public/2022-06/Lion-Man-750x1345.jpg?itok=_PXfr1Vf" background-size="contain" background-position="right"}
+
+- 70,000 to 30,000 years ago we invented:
+
+  - Boats, oil lamps, bow & arrows, needles
+
+  - First art object, Stadel Lion man
+
+  - First evidence for religion, commerce &<br> social stratification
+
+::: aside
+The Lion Man. Stadel Cave, Baden-Württemberg,    
+Germany, 40,000 years old. The oldest known evidence    
+of religious belief in the world. © Ulmer Museum. 
+:::
+
+## The Tree of Knowledge
+
+> Revolution in Cognitive abilities of Sapiens
+
+
+::: {.columns}
+
+::: {.column}
+
+#### 1,50,000 years ago
+
+Humans were not very smart
+
+:::
+
+::: {.column}
+
+#### 70,000 - 30,000 years ago
+
+Humans were equally smart as we are today
+
+:::
+
+:::
+
+Reason is accidental genetic mutations.
+
+## The Tree of Knowledge
+
+> Sapien's language is amazingly supple. 
+
+1. We can explain things a lot more in detail than other animals.
+
+1. **Gossip theory:** we talk about other human beings. "primarily a social animal. Social cooperation is our key for survival & reproduction" (p. 26)
+
+1. **Cognitive revolution:** "the ability to speak about fictions is the most unique feature of sapien's language" & myths.
+
+## The Legend of Peugeot
+
+- "Large numbers of strangers can cooperate successfully by believing in common myths." (p. 30)
+
+- "There are no gods in the universe, no nations, no money, no human rights, no laws and no justice outside the common imagination of human beings" (p. 31)
+
+- "a figment of our collective imagination. Lawyers call this a 'legal fiction'." (p. 32)
+
+## The Legend of Peugeot
+
+- "Telling effective stories is not easy. ... Yet when it succeeds, it gives Sapiens immense power, because it enables millions of strangers to cooperate and work towards common goals." (p. 35)
+
+- 'fictions', 'social constructs' or 'imagined realities' ... An imagined reality is not a lie. (p. 35)
+
+- "As time went by, the imagined reality became ever more powerful, so that today the very survival of rivers, trees and lions (objective realities) depends on the grace of imagined entities such as the United States and Google" (p. 36)
+
+## Bypassing the Genome
+
+- "large scale human cooperation is based on myths, the way people cooperate can be altered by chanding the myths" (p. 36)
+
+- We have huge ability to cooperate by changing myths as per changing needs.
+
+
+
+
 
 
 
